@@ -1,4 +1,3 @@
-# km
-pruebas
+# kilometro28
 
-[visita mi blog](http://kilometro28.blogspot.com/)
+Para más info visita mi [blog](http://kilometro28.blogspot.com/)
