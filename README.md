@@ -1,4 +1,4 @@
 # km
 pruebas
 
-http://kilometro28.blogspot.com/
+[visita mi blog]http://kilometro28.blogspot.com/
